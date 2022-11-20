@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+background: url()
+}
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  background: orange;
+  
+}
+.container {
+  display: flex;
+  background: gray;
+  justify-content: flex-end;
+  height: 300px;
+  align-items: center;
+}
+.video {
+  text-align: center;
+}
